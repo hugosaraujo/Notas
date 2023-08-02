@@ -4,7 +4,7 @@
         { "Java", new List<int> { 7, 6, 5 } },
         { "Python", new List<int> { 9, 8, 8 } }
     }},
-    { "Maria", new Dictionary<string, List<int>> {
+    { "Cara", new Dictionary<string, List<int>> {
         { "C#", new List<int> { 6, 5, 4 } },
         { "Java", new List<int> { 8, 7, 6 } },
         { "Python", new List<int> { 6, 10, 5 } }
